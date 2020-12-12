@@ -1,2 +1,2 @@
-# Internship-at-J-B-Technologies
+# Internship-at-J&B-Technologies
 Data Analytics Internship
